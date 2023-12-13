@@ -38,7 +38,7 @@ const tinyArray = getSizedArray(10);
 const smallArray = getSizedArray(100);
 const mediumArray = getSizedArray(1000);
 const largeArray = getSizedArray(10000);
-const extraLargeArray = getSizedArray(500000);
+const extraLargeArray = getSizedArray(100000);
 
 
 
